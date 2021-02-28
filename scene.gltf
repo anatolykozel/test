@@ -372,7 +372,7 @@
   ],
   "images": [
     {
-      "uri": "textures/hand_lowpoly_normal.png"
+      "uri": "https://raw.githubusercontent.com/anatolykozel/test/main/textures/hand_lowpoly_normal.png"
     }
   ],
   "materials": [
